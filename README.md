@@ -1,6 +1,6 @@
 # DocSpot
 
-DocSpot is a web development project that organizes HTML, CSS, PHP, JS, and image files into their respective directories. This project serves as a template for structuring web projects, making it easier to manage and maintain.
+This web development project organizes HTML, CSS, PHP, JS, and image files into their respective directories. This project helps booking appointment for the patient to the respective specialists.
 
 ## Project Structure
 
